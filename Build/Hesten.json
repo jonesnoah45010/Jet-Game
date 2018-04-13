@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Hesten.data.unityweb",
+"asmCodeUrl": "Hesten.asm.code.unityweb",
+"asmMemoryUrl": "Hesten.asm.memory.unityweb",
+"asmFrameworkUrl": "Hesten.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
